@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+### A few of my favourite things:
+* Travel
+* Lentils
+* Swimming
+* The Power
+* Firefly
+* Kosovo
